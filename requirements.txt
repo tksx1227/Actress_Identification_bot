@@ -34,7 +34,7 @@ scikit-learn==0.22.2.post1
 scipy==1.4.1
 six==1.14.0
 tensorboard==2.2.1
-tensorboard-plugin-wit==1.6.0.post3
+tensorboard-plugin-wit==1.8.0
 https://download.pytorch.org/whl/cpu/torch-1.5.0%2Bcpu-cp38-cp38-linux_x86_64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.6.0%2Bcpu-cp38-cp38-linux_x86_64.whl
 tqdm==4.46.0

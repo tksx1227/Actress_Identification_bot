@@ -1,5 +1,5 @@
 pip==21.2.4
-absl-py==0.14.0
+absl-py==0.14.1
 cachetools==4.2.4
 certifi==2021.5.30
 chardet==4.0.0

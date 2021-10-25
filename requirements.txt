@@ -1,4 +1,4 @@
-pip==21.3
+pip==21.3.1
 absl-py==0.15.0
 cachetools==4.2.4
 certifi==2021.10.8
